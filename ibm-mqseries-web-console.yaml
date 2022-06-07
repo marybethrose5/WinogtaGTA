@@ -2,7 +2,6 @@ id: ibm-mqseries-web-console
 
 info:
   author: righettod
-  severity: info
   reference:
     - https://www.ibm.com/docs/en/ibm-mq/9.0?topic=console-getting-started-mq
   tags: panel,ibm
